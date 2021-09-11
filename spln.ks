@@ -13,7 +13,7 @@ set targetPeriapsis to 100000.
 set Isp to 305.                        //ISP in vacuum for circularization engines   *305 rapier 
 
 //Init
-set trgHeading to (90.1000000000000).
+set trgHeading to (90.1).
 set targetPitch to (-5).
 set tme to 0.
 set srtTme to TIME:SECONDS.
